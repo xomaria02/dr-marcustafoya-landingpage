@@ -4,3 +4,6 @@
 
 ### February 17th, 2016
 <p>Our entire class finally did a push to GitHub. :-)</p>
+
+### February 18th Clock-in
+<p>This is our February 18th clock-in</p
