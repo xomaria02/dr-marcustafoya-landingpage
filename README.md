@@ -6,4 +6,7 @@
 <p>Our entire class finally did a push to GitHub. :-)</p>
 
 ### February 18th Clock-in
-<p>This is our February 18th clock-in</p
+<p>This is our February 18th clock-in</p>
+
+### February 19th 
+<p> This is question 5 on the notebook quiz</P
